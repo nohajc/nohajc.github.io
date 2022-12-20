@@ -2,14 +2,14 @@ Package: termux-adb
 Architecture: arm
 Installed-Size: 4000
 Maintainer: nohajc
-Version: 0.2.0-3
+Version: 0.2.0-4
 Homepage: https://github.com/nohajc/termux-adb
 Depends: brotli, libc++, liblz4, libprotobuf, libusb, termux-api, zlib, zstd
 Description: Run adb and fastboot in Termux without root permissions
-Filename: dists/termux/extras/binary-arm/termux-adb_0.2.0-3_arm.deb
-Size: 1292676
-MD5Sum: 00064733d917b67af8cfd8c58bb8d15b
-SHA1: a09c027ca6182658058caa445953c440ee787565
-SHA256: 06eb2c6824767f09a5be2d8fad938ee5f727ecd258bec60d0fbb53ea7895a0b5
-SHA512: 2b725f9506867ef65b8b08d0bc8d8bd1b92d6b38e431ec5b96a9c184bb7664a9f3448c2306df626be95be694bd21bb943e6c5cf2ae07e3d980a328b6b6705c4d
+Filename: dists/termux/extras/binary-arm/termux-adb_0.2.0-4_arm.deb
+Size: 1293432
+MD5Sum: f274e31225ff3f90706350617f2630da
+SHA1: 24f1377b4a428dac774075704c55fb71b534667f
+SHA256: 116ab7dac53e9855a7a913e6e3d3e32b3caa1b79a4c377627faadd54607eca6d
+SHA512: 0c00bf7051b52d18bfc993fb0c584643df880660dbbe314080d6ac5d1575386f0f5ec2c4246ff09e34158f236295ddb0e57ac7e3c95291be075f525f6edb0970
 
