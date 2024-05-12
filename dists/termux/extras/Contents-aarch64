@@ -7,3 +7,11 @@ data/data/com.termux/files/usr/share/bash-completion/completions/termux-adb     
 data/data/com.termux/files/usr/share/bash-completion/completions/termux-fastboot termux-adb
 data/data/com.termux/files/usr/share/termux-adb/completions/termux-adb           termux-adb
 data/data/com.termux/files/usr/share/termux-adb/completions/termux-fastboot      termux-adb
+data/data/com.termux/files/usr/bin/termux-adb                                    termux-adb
+data/data/com.termux/files/usr/bin/termux-fastboot                               termux-adb
+data/data/com.termux/files/usr/share/doc/termux-adb/LICENSE.1                    termux-adb
+data/data/com.termux/files/usr/share/doc/termux-adb/LICENSE                      termux-adb
+data/data/com.termux/files/usr/share/bash-completion/completions/termux-adb      termux-adb
+data/data/com.termux/files/usr/share/bash-completion/completions/termux-fastboot termux-adb
+data/data/com.termux/files/usr/share/termux-adb/completions/termux-adb           termux-adb
+data/data/com.termux/files/usr/share/termux-adb/completions/termux-fastboot      termux-adb
