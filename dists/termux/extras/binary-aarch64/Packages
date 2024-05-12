@@ -1,3 +1,18 @@
+Package: libprotobuf-tadb-core
+Architecture: aarch64
+Installed-Size: 2692
+Maintainer: @termux
+Version: 2:25.1
+Homepage: https://github.com/protocolbuffers/protobuf
+Depends: libprotobuf-tadb (= 2:25.1)
+Description: Renamed libprotobuf library for termux-adb
+Filename: dists/termux/extras/binary-aarch64/libprotobuf-tadb-core_2:25.1_aarch64.deb
+Size: 665956
+MD5Sum: c29c24d000489e20bdc8b3ff22ecf8d6
+SHA1: 9131825df68dfc0b85051d4c2260d2c8e0845407
+SHA256: 338d76589dc5dd9a1b46adde946600d31ecb074b80498477963a38890409d747
+SHA512: a5b02c24d78f04ced6a120750195dba398d07c4ba01a1092d032ed4d1de12bdc356e85e019d5cef73073e9916eee9f81741bebe03b13d8ddaa2074fbe1ba8c7a
+
 Package: termux-adb
 Architecture: aarch64
 Installed-Size: 6148
