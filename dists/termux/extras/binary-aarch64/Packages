@@ -1,30 +1,30 @@
 Package: libprotobuf-tadb-core
 Architecture: aarch64
-Installed-Size: 2688
+Installed-Size: 2692
 Maintainer: @termux
-Version: 2:25.1-2
+Version: 2:25.1-3
 Homepage: https://github.com/protocolbuffers/protobuf
 Depends: abseil-cpp, libc++, zlib
 Description: Renamed libprotobuf library for termux-adb
-Filename: dists/termux/extras/binary-aarch64/libprotobuf-tadb-core_2:25.1-2_aarch64.deb
-Size: 674216
-MD5Sum: 98831b1a1c9dfc7e701808aba526d148
-SHA1: 74ddc3bd476a46556e2bfa11f133a797db428e47
-SHA256: 3aa05bffc996e705bb4183027a32aec24c64cd720ceddce5ee038ff1bb9592d3
-SHA512: b160684b616806b84c21ec75140f3c35c14b24bd88b92edff3d5e985305386911cfed33d331d59c068dc3efcf7dc301e629218f49acb1a0ec2adef504442fbc6
+Filename: dists/termux/extras/binary-aarch64/libprotobuf-tadb-core_2:25.1-3_aarch64.deb
+Size: 677364
+MD5Sum: 0726d3d9569e86db53eb7859b48a0ca1
+SHA1: c9c251e1a944d87e8b827121b4fd45168b430349
+SHA256: faaff3ceac6f3a1d5c2e5b07e64c2a67689e096edecf621f0c7be86a399bbd95
+SHA512: 642e55c449e50e50c2305037290c9addc17273335bfe904105b1df3c9560365ddd6d46450951408d56668943666d17ee06b17a62e5d5fd9ff9bcef57204d79b8
 
 Package: termux-adb
 Architecture: aarch64
-Installed-Size: 6104
+Installed-Size: 6540
 Maintainer: nohajc
-Version: 0.2.2-2
+Version: 0.2.2-3
 Homepage: https://github.com/nohajc/termux-adb
 Depends: brotli, libc++, liblz4, libprotobuf-tadb-core, libusb, termux-api, zlib, zstd
 Description: Run adb and fastboot in Termux without root permissions
-Filename: dists/termux/extras/binary-aarch64/termux-adb_0.2.2-2_aarch64.deb
-Size: 1579200
-MD5Sum: 1635497bc45f319ba2352bc64c0e27a0
-SHA1: 6a88f34d302f2a9347bb4d118580b756abdb0ba0
-SHA256: 96115ddcf070c5d6fa81cc2c9953328db882d60e0e870235894674bb911b72bf
-SHA512: a753e229124a5cfae41707f2dda37bb554207eba900c940563f290ef01010a490e456f46d69a5d8cc2f1bda9f87c486d8a409800f52a6b5128bf758e1b9b07dd
+Filename: dists/termux/extras/binary-aarch64/termux-adb_0.2.2-3_aarch64.deb
+Size: 1670564
+MD5Sum: b7a5d2f895e320e0f6c488d04a90303d
+SHA1: 1ba7502cfa666150b839959eb7938aed536f3f0e
+SHA256: 975b4fdaf9a71cf72eafe0f3a27d6bce5d2727dd46852f9b48f2c85be5b0dd0d
+SHA512: f629704a1f7546be0306f73d8e27eb0adec8c1031ca62baac8d7e314c7d155c2ac1ec4b5ec5d05c8a74d9b04d4404f8b56926005ef545a7daf00b1d23e5be9fc
 
