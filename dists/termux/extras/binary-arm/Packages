@@ -1,30 +1,15 @@
-Package: libprotobuf-tadb-core
-Architecture: arm
-Installed-Size: 1860
-Maintainer: @termux
-Version: 2:25.1-3
-Homepage: https://github.com/protocolbuffers/protobuf
-Depends: abseil-cpp, libc++, zlib
-Description: Renamed libprotobuf library for termux-adb
-Filename: dists/termux/extras/binary-arm/libprotobuf-tadb-core_2:25.1-3_arm.deb
-Size: 678616
-MD5Sum: 0801c5cf039c3ed4965d82c59f8c194f
-SHA1: 7befd4aeb871e924f9b3a07131b1f15a9ccd2233
-SHA256: 3cc07964ee0a3b1ecf599fc1987fbf098c05cb3e8def66c30a4898cb97773d79
-SHA512: d0a5fb27a4b87ebec1d9420ea19c8344840b2ee8d6114224f9d9e035ad4695facc7677675d790e151f4461b651042564ebe08603fee0b197e2c690c9dff803b4
-
 Package: termux-adb
 Architecture: arm
-Installed-Size: 4036
+Installed-Size: 5504
 Maintainer: nohajc
-Version: 0.2.2-3
+Version: 0.2.3
 Homepage: https://github.com/nohajc/termux-adb
-Depends: brotli, libc++, liblz4, libprotobuf-tadb-core, libusb, termux-api, zlib, zstd
+Depends: brotli, libc++, liblz4, termux-api, zlib, zstd
 Description: Run adb and fastboot in Termux without root permissions
-Filename: dists/termux/extras/binary-arm/termux-adb_0.2.2-3_arm.deb
-Size: 1426144
-MD5Sum: f0eb16e7a7005d0592503d919aafaff0
-SHA1: 040a4336efca9a7c174fb78759443879e50771d9
-SHA256: f27e3536b50e256cd2b5515507484f6b12998d25edc9034f6e96d993e4af1bf0
-SHA512: 6ed7ab90a6d70d22563953100f57d18b36c1e6d4938cce27000782142f0eea27c36f996d1176e3dcaa228243c25acd0a9e8a253bd866943469d51cc1f9bbb80a
+Filename: dists/termux/extras/binary-arm/termux-adb_0.2.3_arm.deb
+Size: 2069052
+MD5Sum: f655c3e0db89b5e60479902146483815
+SHA1: 565b514c76040046bddedbd1b174711d4b6e114a
+SHA256: faf1ec047fa69dbafc9550574bdf4c91bc7c12c5372684d6c5d9cbe384e861a0
+SHA512: 7fa0e3c949cfc9f829eac4d05ab570c9aa3f0aae762a258339d5d8c1f3ff4261cbd9dab91d92bae96abb0d9b779061b5aac0c228da216caf14e5a4c5921be927
 
